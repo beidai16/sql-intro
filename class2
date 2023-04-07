@@ -40,6 +40,9 @@ sqlite>
 
 .read demo.sql
 
+.mode columns
+.headers on
+
 
 
 
