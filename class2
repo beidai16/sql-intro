@@ -1,3 +1,7 @@
+/* "cd.." brings you to the top of our directory
+  then specify directory with cd [name of directory] */
+
+
 gitpod /workspace/sql-intro (master) $ sqlite3 baseball.sqlite3
 SQLite version 3.37.2 2022-01-06 13:25:41
 Enter ".help" for usage hints.
